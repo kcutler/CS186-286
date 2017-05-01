@@ -10,6 +10,7 @@
         vm.name = 'Kc';
         
         //array to save data from get response
+        //var resultArr = [];
         $scope.resultArr = [];
     
         //KC - variable to access through html file

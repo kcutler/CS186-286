@@ -6,7 +6,6 @@ var postevent = require('../controllers/postevent');
 var postComment = require('../controllers/postcomment');
 var ctrlUsers = require('../controllers/usercontroller');
 
-router.route('/events/:venueName').get(ctrlEvent.eventGetOne);
 
 //eventcontrollers mongo-db routes
 router.get('/events', ctrlEvent.eventsGetAll);

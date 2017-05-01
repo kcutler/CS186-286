@@ -1,0 +1,34 @@
+[
+    {
+        "firstName": "Erin",
+        "lastName": "Walter",
+        "email": "ewalter@mills.edu",
+        "username": "erinbagel",
+        "password": "dummypw1"
+    }, 
+    {
+        "firstName": "Taylor",
+        "lastName": "Swift",
+        "email": "tswift@mills.edu",
+        "username": "blankspacebabe",
+        "password": "dummypw2"
+    },
+    {
+        "firstName": "Blue",
+        "lastName": "Bottle",
+        "email": "bbottle@bbottle.com",
+        "username": "blueBottles88",
+        "password": "dummypw3"
+    }, 
+    {
+        "firstName": "Beyonce",
+        "lastName": "Knowles",
+        "email": "baebey@lemonade.com",
+        "username": "lemonadeLady",
+        "password": "dummypw4"
+    }
+]
+    
+    
+    
+    
